@@ -14,7 +14,7 @@ ruamel.yaml==0.15.37
 albatross3==0.6.3
 pillow==5.1.0
 raven==6.9.0
-datadog
+datadog==0.20.0
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 ddtrace
 urbandictionary
