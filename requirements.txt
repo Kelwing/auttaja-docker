@@ -9,7 +9,7 @@ python-fity3==0.7
 aiobotocore==0.8.0
 regex==2018.02.21
 tweepy==3.6.0
-reportlab
+reportlab==3.4.0
 ruamel.yaml
 albatross3
 pillow
