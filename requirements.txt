@@ -5,7 +5,7 @@ pluginbase==0.7
 psutil==5.4.5
 html2text==2018.1.9
 osuapi==0.0.28
-python-fity3
+python-fity3==0.7
 aiobotocore==0.8.0
 regex
 tweepy
