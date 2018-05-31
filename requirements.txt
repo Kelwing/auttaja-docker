@@ -3,7 +3,7 @@ uvloop==0.10.0
 pynamodb==3.3.0
 pluginbase==0.7
 psutil==5.4.5
-html2text
+html2text==2018.1.9
 osuapi
 python-fity3
 aiobotocore==0.8.0
