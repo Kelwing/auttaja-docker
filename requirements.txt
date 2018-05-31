@@ -11,7 +11,7 @@ regex==2018.02.21
 tweepy==3.6.0
 reportlab==3.4.0
 ruamel.yaml==0.15.37
-albatross3
+albatross3==0.6.3
 pillow
 raven==6.9.0
 datadog
