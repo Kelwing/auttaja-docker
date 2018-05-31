@@ -19,7 +19,7 @@ datadog==0.20.0
 ddtrace==0.12.0
 urbandictionary==1.1
 apscheduler==3.5.1
-redis
+redis==2.10.6
 pytz
 sqlalchemy==1.2.8
 pylru==1.1.0
