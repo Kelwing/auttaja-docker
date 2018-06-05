@@ -1,5 +1,5 @@
 yarl<1.2
-uvloop==0.10.0
+uvloop==0.10.1
 pynamodb==3.3.0
 pluginbase==0.7
 psutil==5.4.5
@@ -7,14 +7,14 @@ html2text==2018.1.9
 osuapi==0.0.28
 python-fity3==0.7
 aiobotocore==0.9.1
-regex==2018.02.21
+regex==2018.06.05
 tweepy==3.6.0
 reportlab==3.4.0
 ruamel.yaml==0.15.37
 albatross3==0.6.3
 pillow==5.1.0
 raven==6.9.0
-datadog==0.20.0
+datadog==0.21.0
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 ddtrace==0.12.0
 urbandictionary==1.1
