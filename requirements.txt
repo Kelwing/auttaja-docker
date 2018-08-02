@@ -1,5 +1,5 @@
 yarl<1.2
-uvloop==0.10.1
+uvloop==0.11.1
 pynamodb==3.3.0
 pluginbase==0.7
 psutil==5.4.6
