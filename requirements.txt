@@ -18,7 +18,7 @@ datadog==0.21.0
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 ddtrace==0.12.0
 urbandictionary==1.1
-apscheduler==3.5.1
+apscheduler==3.5.2
 redis==2.10.6
 pytz==2018.4
 sqlalchemy==1.2.8
