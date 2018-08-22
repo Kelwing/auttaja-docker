@@ -20,8 +20,8 @@ ddtrace==0.12.1
 urbandictionary==1.1
 apscheduler==3.5.3
 redis==2.10.6
+sqlalchemy==1.2.11
 pytz==2018.5
-sqlalchemy==1.2.8
 pylru==1.1.0
 gitpython==2.1.11
 flake8==3.5.0
