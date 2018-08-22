@@ -10,7 +10,7 @@ regex==2018.08.17
 aiobotocore==0.9.4
 tweepy==3.6.0
 reportlab==3.4.0
-ruamel.yaml==0.15.37
+ruamel.yaml==0.15.60
 albatross3==0.6.3
 pillow==5.2.0
 raven==6.9.0
