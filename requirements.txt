@@ -13,7 +13,7 @@ ruamel.yaml
 albatross3
 pillow
 raven
-datadog
+datadog==0.22.0
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 ddtrace
 urbandictionary
