@@ -10,7 +10,7 @@ aiobotocore
 tweepy
 reportlab
 ruamel.yaml
-albatross3
+albatross3==0.6.3
 pillow
 raven
 datadog
