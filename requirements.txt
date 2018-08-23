@@ -18,7 +18,7 @@ datadog
 ddtrace
 urbandictionary
 apscheduler
-redis
+redis==2.10.6
 sqlalchemy
 pytz
 pylru
