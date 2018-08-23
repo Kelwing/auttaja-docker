@@ -4,7 +4,7 @@ pluginbase
 psutil
 html2text
 osuapi
-python-fity3
+python-fity3==0.7
 regex
 aiobotocore
 tweepy
