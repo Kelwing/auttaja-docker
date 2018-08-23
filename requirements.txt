@@ -12,7 +12,7 @@ reportlab
 ruamel.yaml
 albatross3
 pillow
-raven
+raven==6.9.0
 datadog
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 ddtrace
