@@ -24,4 +24,4 @@ pytz
 pylru
 gitpython
 flake8
-dateparser
+dateparser==0.7.0
