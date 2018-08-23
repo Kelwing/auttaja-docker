@@ -17,7 +17,7 @@ datadog
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 ddtrace
 urbandictionary
-apscheduler
+apscheduler==3.5.3
 redis
 sqlalchemy
 pytz
