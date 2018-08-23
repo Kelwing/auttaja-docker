@@ -4,7 +4,7 @@ RUN apk update \
  && apk add git build-base linux-headers zlib-dev jpeg-dev freetype-dev libwebp-dev \
  && pip install -r requirements.txt
 
-FROM python:alpine
+FROM python:3.6-alpine
 COPY --from=0 /root/.cache /root/.cache
 COPY requirements.txt .
 RUN set -x \
