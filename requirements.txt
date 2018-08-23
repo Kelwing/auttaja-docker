@@ -22,6 +22,6 @@ redis
 sqlalchemy
 pytz
 pylru
-gitpython
+gitpython==2.1.11
 flake8
 dateparser
