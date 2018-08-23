@@ -19,7 +19,7 @@ ddtrace
 urbandictionary
 apscheduler
 redis
-sqlalchemy
+sqlalchemy==1.2.11
 pytz
 pylru
 gitpython
