@@ -21,7 +21,7 @@ apscheduler
 redis
 sqlalchemy
 pytz
-pylru
+pylru==1.1.0
 gitpython
 flake8
 dateparser
