@@ -1,5 +1,5 @@
 uvloop
-pynamodb
+pynamodb==3.3.0
 pluginbase
 psutil
 html2text
