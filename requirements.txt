@@ -6,7 +6,7 @@ html2text
 osuapi
 python-fity3
 regex
-aiobotocore
+aiobotocore==0.9.4
 tweepy
 reportlab
 ruamel.yaml
