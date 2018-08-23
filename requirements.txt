@@ -7,7 +7,7 @@ osuapi
 python-fity3
 regex
 aiobotocore
-tweepy
+tweepy==3.6.0
 reportlab
 ruamel.yaml
 albatross3
