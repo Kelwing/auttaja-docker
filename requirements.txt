@@ -2,7 +2,7 @@ uvloop
 pynamodb
 pluginbase
 psutil
-html2text
+html2text==2018.1.9
 osuapi
 python-fity3
 regex
