@@ -16,7 +16,7 @@ raven
 datadog
 -e git+https://github.com/Kelwing/discord.py.git@rewrite#egg=discord.py
 ddtrace
-urbandictionary
+urbandictionary==1.1
 apscheduler
 redis
 sqlalchemy
