@@ -1,7 +1,7 @@
 uvloop
 pynamodb
 pluginbase
-psutil
+psutil==5.4.7
 html2text
 osuapi
 python-fity3
