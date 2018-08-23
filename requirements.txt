@@ -1,6 +1,6 @@
 uvloop
 pynamodb
-pluginbase
+pluginbase==0.7
 psutil
 html2text
 osuapi
