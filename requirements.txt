@@ -3,7 +3,7 @@ pynamodb
 pluginbase
 psutil
 html2text
-osuapi
+osuapi==0.0.30
 python-fity3
 regex
 aiobotocore
