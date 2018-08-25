@@ -25,4 +25,4 @@ pylru
 gitpython
 flake8
 dateparser
-colorlog
+colorlog==3.1.4
