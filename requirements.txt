@@ -8,7 +8,7 @@ python-fity3
 regex
 aiobotocore
 tweepy
-reportlab
+reportlab==3.5.9
 ruamel.yaml
 albatross3
 pillow
