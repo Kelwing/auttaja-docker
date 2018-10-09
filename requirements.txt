@@ -5,7 +5,7 @@ psutil
 html2text
 osuapi
 python-fity3
-regex
+regex==2018.08.29
 aiobotocore
 tweepy
 reportlab
