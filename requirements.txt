@@ -26,4 +26,4 @@ gitpython
 flake8
 dateparser
 colorlog
-simplejson
+simplejson==3.16.0
