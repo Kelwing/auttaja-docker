@@ -26,3 +26,4 @@ gitpython
 flake8
 dateparser
 colorlog
+simplejson
