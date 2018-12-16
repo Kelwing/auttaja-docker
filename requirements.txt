@@ -1,5 +1,5 @@
-botocore==1.10.58
 boto3==1.9.33
+botocore==1.12.33
 uvloop
 pynamodb
 pluginbase
@@ -22,10 +22,10 @@ urbandictionary
 apscheduler
 redis
 sqlalchemy
-pytz
+pytz==2018.6
 pylru
 gitpython
-flake8
+flake8==3.6.0
 dateparser
 colorlog
-simplejson
+simplejson==3.16.0
