@@ -11,7 +11,7 @@ regex
 aiobotocore
 tweepy
 reportlab
-ruamel.yaml
+ruamel.yaml==0.15.75
 albatross3
 pillow
 raven
