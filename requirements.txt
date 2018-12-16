@@ -1,5 +1,5 @@
+boto3==1.9.33
 botocore==1.12.33
-boto3==1.7.58
 uvloop
 pynamodb
 pluginbase
