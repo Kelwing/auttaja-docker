@@ -22,7 +22,7 @@ urbandictionary
 apscheduler
 redis
 sqlalchemy
-pytz
+pytz==2018.6
 pylru
 gitpython
 flake8
